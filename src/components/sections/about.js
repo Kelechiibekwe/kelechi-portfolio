@@ -135,33 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey! I’m Kelechi, a software developer from Canada who loves creating amazing digital
-              experiences. My journey into tech began with a Mechanical Engineering degree, where I
-              discovered my passion for problem-solving and computer science.
+              Hey! I’m Kelechi, a software developer from Canada who loves building top-notch web
+              apps. My tech journey began with a Mechanical Engineering degree, where I found my
+              passion for solving problems and coding.
             </p>
 
             <p>
-              Determined to dive deeper, I earned a certification in computer science from MIT on
-              edX and leveled up my skills through a bootcamp, building projects that sharpened my
-              expertise in system design, data structures, and algorithms.
+              I leveled up with a{' '}
+              <a href="https://courses.edx.org/certificates/2a393f1f7f1146f18d0c894ff5fdbc0a">
+                computer science certification
+              </a>{' '}
+              from MIT on edX and a bootcamp that honed my skills in system design and algorithms.
             </p>
 
             <p>
-              Fast forward to today, I’m thriving at{' '}
-              <a href="https://www.td.com/ca/en/about-td"> TD Group</a>, where I’ve worked on
-              high-impact projects, optimizing data processing for large-scale transactions,
-              ensuring regulatory compliance, and migrating applications to the cloud. Plus, I’ve
-              engineered solutions that significantly boosted performance and scalability.
-            </p>
-
-            <p>
-              Outside of my day job, I’m always exploring new technologies and sharing my knowledge.
-              I recently developed{' '}
+              Now, at <a href="https://td.com">TD Group</a> , I tackle high-impact projects,
+              optimizing data processing for large scale projects, and migrating apps to the cloud
+              to boost performance. When I’m not at work, I’m diving into new tech and sharing what
+              I learn. Recently, I created a
               <a href="https://github.com/Kelechiibekwe/microservices">
                 a microservices-based Fraud Detector app
               </a>{' '}
-              using Spring Boot, Docker, RabbitMQ, and Kafka, showcasing my ability to build
-              scalable, efficient systems.
+              using Spring Boot, Docker and RabbitMQ.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
