@@ -27,9 +27,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      # Step 5: Deploy to Vercel
-      - name: Deploy to Vercel
-        run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
-        env:
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      - name: Run ESLint
+        run: npx eslint .
