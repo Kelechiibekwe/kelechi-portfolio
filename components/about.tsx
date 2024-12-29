@@ -25,11 +25,12 @@ export default function About() {
         a <span className="font-medium">Mechanical Engineering</span> degree, where
         I discovered my passion for solving complex design challenges through code.
         After graduation, I earned a{" "}
-        <span className="font-medium">
-          computer science certification from MIT (via edX)
-        </span>{" "}
-        and specialized in system design and algorithms. Now, I’m all about building
-        high-performance web apps that balance thoughtful design with robust
+        <span className="font-medium"> 
+          computer science certification from MIT (on edX)
+        </span>{" "} 
+        and attended a bootcamp that sharpened my skills in system design and algorithms. Now, 
+        I’m all about building high-performance web apps that balance thoughtful 
+        design with robust
         engineering.
       </p>
 
