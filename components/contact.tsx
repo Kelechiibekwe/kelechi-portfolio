@@ -34,8 +34,8 @@ export default function Contact() {
       <p className="text-gray-700 -mt-1 dark:text-white/80">
         I’m always happy to connect, especially as I explore new opportunities.
         Whether you have a question, want to discuss a potential role, or just feel
-        like saying hello, my inbox is open. Drop me a message, and I’ll do my best
-        to get back to you as soon as possible!
+        like saying hello, my inbox is open. Drop me a message, and I’ll get back 
+        to you as soon as possible!
 
         <br/>
         <br/>

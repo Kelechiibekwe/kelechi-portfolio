@@ -18,33 +18,36 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
+
       <p className="mb-3">
-    Hey! I’m <span className="font-medium">Kelechi</span>, a software developer
-    based in <span className="font-medium">Canada</span> who loves building
-    high performance web apps. My tech journey started with a{" "}
-    <span className="font-medium">Mechanical Engineering</span> degree, where I
-    discovered my passion for tackling complex problems through code.
-  </p>
+        Hey, I’m <span className="font-medium">Kelechi</span>, a software developer
+        based in <span className="font-medium">Canada</span>. My journey began with
+        a <span className="font-medium">Mechanical Engineering</span> degree, where
+        I discovered my passion for solving complex design challenges through code.
+        After graduation, I earned a{" "}
+        <span className="font-medium">
+          computer science certification from MIT (via edX)
+        </span>{" "}
+        and specialized in system design and algorithms. Now, I’m all about building
+        high-performance web apps that balance thoughtful design with robust
+        engineering.
+      </p>
 
-  <p className="mb-3">
-    I sharpened my skills further by earning a{" "}
-    <span className="font-medium">
-      computer science certification from MIT (via edX)
-    </span>{" "}
-    and attending a bootcamp focused on{" "}
-    <span className="font-medium">system design</span> and{" "}
-    <span className="font-medium">algorithms</span>.
-  </p>
+      <p className="mb-3">
+        Currently, I’m at <span className="font-medium">TD Group</span>,
+        contributing to major projects shaping the future of digital finance. I’m
+        proud of how I’ve improved system performance and streamlined processes—
+        building solutions that make a real difference.
+      </p>
 
-  <p className="mb-3">
-    Currently, at <span className="font-medium">TD Group</span>, I work on
-    high-impact projects—application server migration, optimizing data processing for 
-    large-scale systems and rolling out new features for our customers. When I’m not
-    coding at work, I’m exploring the latest technologies, sharing my learnings,
-    and building personal projects. Right now, I’m developing a journaling
-    application that uses a Language Model (LLM) and embedded vector search for
-    semantic understanding.
-  </p>
-</motion.section>
+      <p className="mb-3">
+        When I’m not coding, I’m exploring new technologies—like a personal
+        journaling app powered by an LLM and vector search. Mindfulness and writing
+        keep me grounded, and in my free time, I love discovering new vinyl records
+        or unwinding with a good book. At the heart of it all, I aim to solve real
+        problems, share learnings, and build solutions that genuinely benefit
+        people.
+      </p>
+    </motion.section>
   );
 }

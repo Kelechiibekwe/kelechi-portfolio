@@ -40,7 +40,7 @@ export const experiencesData = [
       title: "Full-Stack Developer @TD Securities",
       location: "Calgary, AB",
       description:
-        "At TD Securities, I have integrated fractional shares (a first among major Canadian banks), added new data sources in Python apps for richer insights, streamlined ETL for large datasets, modernized a Spring app on Azure with Redis for scalability, and led smooth application migrations.",
+        "At TD Securities, I integrated fractional shares, modernized Java systems, delivered SEC-driven settlement changes, improved Python code quality and led server migrations. I also tackled Redis, Airflow, and Node.js issues, ensuring scalable solutions for evolving business needs.",
       icon: React.createElement(FaLaptopCode),
       date: "2022 - present",
     },
