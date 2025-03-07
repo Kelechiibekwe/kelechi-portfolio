@@ -66,7 +66,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Kelechi.</span> I'm a{" "}
         <span className="font-bold">full-stack engineer</span> with{" "}
-        <span className="font-bold">2+ years</span> of experience. I like
+        <span className="font-bold">3+ years</span> of experience. I like
         building <span className="italic">modern web apps</span>. My focus is{" "}
         <span className="underline">Java/Spring, NodeJS and Python</span>.
       </motion.h1>
