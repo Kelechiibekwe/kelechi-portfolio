@@ -1,30 +1,17 @@
+# Kelechi Ibekwe — Personal Portfolio
 
+A concise showcase of my skills, experience, and passion for building modern web apps.
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+## 🚀 Highlights
+- **Animated Scroll & Sections**: Smooth navigation with active-section highlighting.
+- **Dark/Light Mode**: Toggle themes with persisted preference.
+- **Server Actions**: Contact form powered by Next.js Server Actions and Resend.
+- **Responsive Design**: Mobile-first, built with Tailwind CSS.
+- **Timeline & Sections**: Experience, skills, and contact sections with Framer Motion animations.
 
-## What you will learn
+## 🛠️ Tech Stack
+Next.js (App Router + Server Actions), TypeScript, Tailwind CSS, Framer Motion, React Context, Resend, Vercel
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+## 🎥 Inspiration
 
-## Important
-
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
-
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
-
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+Built with guidance from a youtube tutorial: https://youtu.be/sUKptmUVIBM
