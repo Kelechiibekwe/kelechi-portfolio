@@ -1,6 +1,6 @@
 # Kelechi Ibekwe — Personal Portfolio
 
-A concise showcase of my skills, experience, and passion for building modern web apps.
+A showcase of my skills, experience, and passion for building modern web apps.
 
 ## 🚀 Highlights
 - **Animated Scroll & Sections**: Smooth navigation with active-section highlighting.
